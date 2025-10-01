@@ -7,6 +7,7 @@ public class Main{
         System.out.println("Output from java program");
         System.out.println(new Date());
         System.out.println("Created git repository");
+        System.out.println("I have successfully created Jenkins project. Thanks Durgesh!");
     }
 
 }
