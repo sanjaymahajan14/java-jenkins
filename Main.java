@@ -8,6 +8,9 @@ public class Main{
         System.out.println(new Date());
         System.out.println("Created git repository");
         System.out.println("I have successfully created Jenkins project. Thanks Durgesh!");
+
+        Student student = new Student();
+        student.display();
     }
 
 }
